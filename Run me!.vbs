@@ -1,0 +1,5 @@
+x=msgbox("If you are gon change some of this code,pls credit me.",0+48,"Heyo please read this")
+x=msgbox("And dont claim VBOS as your own",0+48,"Heyo please read this")
+x=msgbox("Else i will edit YOUR code and claim it as my own.",0+48,"Heyo please read this")
+x=msgbox("jk i'd prob just harrass your stealing ass to death",0+48,"H̵e̸y̵o̵ ̸p̶l̵e̴a̷s̵e̵ ̴r̸e̵a̴d̵ ̸t̷h̷i̶s̶")
+x=msgbox("Stealing from some random kid testing stuff isnt poggers",0+48,"Heyo please read this")

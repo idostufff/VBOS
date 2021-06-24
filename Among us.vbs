@@ -1,0 +1,6 @@
+x=msgbox("CREWMATE",0+48,"Among	Us")
+x=msgbox("-I'm crewmate.",0+48,"Among Us")
+x=msgbox("-Let's check my tasks...",0+48,"Among	Us")
+x=msgbox("swipe card",0+48,"Among	Us")
+x=msgbox("download data ( electrical)",0+48,"Among	Us")
+x=msgbox("simon says,HAHA!",0+48,"Among	Us")

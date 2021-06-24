@@ -1,0 +1,1 @@
+x=msgbox("message box code",0+48,"Sample code")
